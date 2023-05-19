@@ -1,0 +1,6 @@
+
+powershell.exe -executionpolicy bypass .\install.ps1 googlechrome
+
+powershell.exe -executionpolicy bypass .\install.ps1 googlechrome -uninstall
+
+Detectie script gebruiken
